@@ -1,0 +1,21 @@
+body {
+    background-color: #ADD8E6; /* Hex code for light blue */
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+}
+
+
+/* style.css */
+
+.shake-container {
+    position: relative;
+}
+
+#shake-me {
+    width: 100px;
+    height: 100px;
+    background-color: #3498db;
+    margin-bottom: 20px;
+}
+
+
